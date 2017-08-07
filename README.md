@@ -2,14 +2,14 @@
 
 Whenever you make a ruby on rails project make the first thing you do to be adding secrets.yml to the .gitignore file!
 
->This is a Ruby on Rails 5 application that allows users to vreate hteir own portfolios.
+>This is a Ruby on Rails 5 application that allows users to create their own portfolios.
 
 ### Features
 
--Real time chat engine for comments
--Blog
--Portfolio
--Drag and drop interface
+- Real time chat engine for comments
+- Blog
+- Portfolio
+- Drag and drop interface
 
 ### Code Example
 
